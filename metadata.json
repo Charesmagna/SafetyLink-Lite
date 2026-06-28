@@ -1,0 +1,6 @@
+{
+  "name": "SafetyLink BLE Lab",
+  "description": "A tactical simulation, scanning, and monitoring dashboard for Bluetooth Low Energy safety wearables and iTag devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
